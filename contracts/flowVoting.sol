@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-contract HederaVoting {
+contract FlowVoting {
     struct Proposal {
         uint256 proposalId;
         string parkName;
